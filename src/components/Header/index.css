@@ -1,0 +1,15 @@
+.nav-bar {
+  background-color: #f1f5f9;
+  /* height: 20vh; */
+  /* width: 90%;
+  /* max-width: 1130px; */
+  /* margin: auto; */
+}
+.nav {
+  width: 90%;
+  margin: auto;
+}
+.nav-logo {
+  height: 60px;
+  margin: 15px 0;
+}

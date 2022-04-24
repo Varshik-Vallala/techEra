@@ -1,0 +1,19 @@
+.list-container {
+  width: 90%;
+  margin: auto;
+  min-height: 70vh;
+  /* display: flex;
+  flex-direction: column;
+  
+  justify-content: center; */
+  /* align-items: center; */
+}
+.course-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+.loader {
+  text-align: center;
+}
